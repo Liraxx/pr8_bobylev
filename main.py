@@ -1,6 +1,7 @@
 import random
 
 chars = 'abcdefghijklnopqrstuvwxyz'
+chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 length = input('длина пароля?'+ "\n")
 number = int(number)
 length = int(length)
